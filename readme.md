@@ -28,9 +28,5 @@
 
 전체적으로 문재인 후보와 안철수 후보의 결과가 기존 안철수 지지율 그래프가 증감하는 모습과 유사한 경향성을 가졌음을 확인할 수 있었다. 이는 두 후보가 같은 데이터를 사용했고, 문재인과 안철수의 내적 값이 항상 .7~.8 사이였기 때문이라 추측할 수 있다.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aca61533-0285-4260-a445-10c90ea4e34c/_2020-06-30__5.19.49.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aca61533-0285-4260-a445-10c90ea4e34c/_2020-06-30__5.19.49.png)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17f274dc-9328-41f5-9613-bc5182ef67f6/_2020-06-30__5.20.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/17f274dc-9328-41f5-9613-bc5182ef67f6/_2020-06-30__5.20.07.png)
-
 
 
